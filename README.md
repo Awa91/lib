@@ -1,4 +1,4 @@
-### Local library is a very basic Express website developed while following a tutorial from the Mozilla Developer Network.
+### Local library is a very basic Express website I developed while following a tutorial from the Mozilla Developer Network.
 
 
 
